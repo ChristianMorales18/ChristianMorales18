@@ -1,15 +1,43 @@
-### Hi there 👋, my name is Christian Morales
-#### I am a web and mobile developer.
-![I am a web and mobile developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+# Hola, soy [Tu Nombre] 👋
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Sobre mí
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Soy un desarrollador apasionado por la tecnología y la innovación. Con experiencia en [menciona tus lenguajes de programación y tecnologías principales], disfruto creando soluciones que marcan la diferencia.
 
-- 🔭 I’m currently working on this page. 
+- 🔭 Actualmente estoy trabajando en [tu proyecto actual o el nombre de tu empresa]
+- 🌱 Actualmente estoy aprendiendo [tecnologías o habilidades nuevas que estás aprendiendo]
+- 👯 Busco colaborar en [tipos de proyectos en los que te gustaría colaborar]
+- 🤔 Busco ayuda con [áreas en las que necesitas ayuda]
+- 💬 Pregúntame sobre [tus áreas de especialización]
+- 📫 Cómo contactarme: [tu correo electrónico]
 
+### 🚀 Proyectos Destacados
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ChristianMorales18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://github.com/ChristianMorales18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://github.com/ChristianMorales18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://github.com/ChristianMorales18/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://github.com/ChristianMorales18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://github.com/ChristianMorales18/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://github.com/ChristianMorales18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://github.com/ChristianMorales18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/v)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/v)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://github.com/ChristianMorales18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://github.com/ChristianMorales18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/ChristianMorales18)  
+- **[Nombre del Proyecto 1]**
+  - Descripción: [Breve descripción del proyecto]
+  - Tecnologías: [Tecnologías utilizadas]
+  - [Enlace al proyecto]
+
+- **[Nombre del Proyecto 2]**
+  - Descripción: [Breve descripción del proyecto]
+  - Tecnologías: [Tecnologías utilizadas]
+  - [Enlace al proyecto]
+
+### 🛠️ Habilidades
+
+- **Lenguajes de Programación:** [Lenguajes que conoces, e.j. JavaScript, Python, etc.]
+- **Frameworks y Librerías:** [Frameworks y librerías que utilizas, e.j. React, Django, etc.]
+- **Herramientas y Tecnologías:** [Herramientas que dominas, e.j. Git, Docker, etc.]
+
+### 🌐 Conéctate conmigo
+
+- [LinkedIn](tu enlace de LinkedIn)
+- [Twitter](tu enlace de Twitter, opcional)
+- [Correo electrónico](tu correo electrónico)
+
+---
+
+⭐️ From [Tu Nombre](https://github.com/tu-usuario)
 
 
 
