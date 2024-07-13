@@ -5,7 +5,9 @@
 Soy un desarrollador apasionado por la tecnología y la innovación. Con experiencia en [menciona tus lenguajes de programación y tecnologías principales], disfruto creando soluciones que marcan la diferencia.
 
 - 🔭 Actualmente estoy trabajando en [tu proyecto actual o el nombre de tu empresa]
-- 🌱 Actualmente estoy aprendiendo ![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- 🌱 Actualmente estoy aprendiendo:
+    ![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - 👯 Busco colaborar en [tipos de proyectos en los que te gustaría colaborar]
 - 🤔 Busco ayuda con [áreas en las que necesitas ayuda]
 - 💬 Pregúntame sobre [tus áreas de especialización]
