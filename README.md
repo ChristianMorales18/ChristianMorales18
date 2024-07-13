@@ -1,4 +1,4 @@
-# Hola, soy CHristian Morales 👋
+# Hola, soy Christian Morales 👋
 
 ### Sobre mí
 
